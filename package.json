@@ -1,0 +1,23 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "here i'm gonna make a library management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adarshsingh101/library-management-system.git"
+  },
+  "keywords": [
+    "my",
+    "library"
+  ],
+  "author": "Adarsh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adarshsingh101/library-management-system/issues"
+  },
+  "homepage": "https://github.com/adarshsingh101/library-management-system#readme"
+}
