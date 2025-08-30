@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aarav",
+      "surname": "Sharma",
+      "email": "aarav.sharma@example.com",
+      "issuedBook": "The Alchemist",
+      "returnDate": "2025-09-15",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "2025-01-10",
+      "role": "Member",
+      "joinedDate": "2024-12-01"
+    },
+    {
+      "id": 2,
+      "name": "Isha",
+      "surname": "Verma",
+      "email": "isha.verma@example.com",
+      "issuedBook": "Atomic Habits",
+      "returnDate": "2025-09-20",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "2025-02-05",
+      "role": "Member",
+      "joinedDate": "2025-02-06"
+    },
+    {
+      "id": 3,
+      "name": "Rohan",
+      "surname": "Patel",
+      "email": "rohan.patel@example.com",
+      "issuedBook": "Sapiens: A Brief History of Humankind",
+      "returnDate": "2025-09-18",
+      "subscriptionType": "Standard",
+      "subscriptionDate": "2025-03-01",
+      "role": "Member",
+      "joinedDate": "2025-03-02"
+    },
+    {
+      "id": 4,
+      "name": "Priya",
+      "surname": "Kapoor",
+      "email": "priya.kapoor@example.com",
+      "issuedBook": "Clean Code",
+      "returnDate": "2025-09-25",
+      "subscriptionType": "Premium",
+      "subscriptionDate": "2025-04-12",
+      "role": "Librarian",
+      "joinedDate": "2025-01-15"
+    },
+    {
+      "id": 5,
+      "name": "Dev",
+      "surname": "Nair",
+      "email": "dev.nair@example.com",
+      "issuedBook": "Rich Dad Poor Dad",
+      "returnDate": "2025-09-12",
+      "subscriptionType": "Basic",
+      "subscriptionDate": "2025-05-20",
+      "role": "Member",
+      "joinedDate": "2025-05-21"
+    }
+  ]
+}
